@@ -1,4 +1,4 @@
-running_distance = 4*2
+running_distance = 4*4
 print(running_distance)
 
 running_distance = running_distance + 3

@@ -6,3 +6,8 @@ pow('3,4')
 
 age = input("Please enter your age")
 print(age)
+
+# Create your views here.
+
+def (index):
+     return HttpResponse("This is index page")  
